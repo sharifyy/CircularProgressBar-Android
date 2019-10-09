@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgress">
+        <attr name="bg_color" format="color"/>
+        <attr name="start_color" format="color"/>
+        <attr name="end_color" format="color"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="text_color_gradient" format="boolean"/>
+        <attr name="max" format="integer"/>
+        <attr name="progress" format="float"/>
+        <attr name="stroke_width" format="float"/>
+    </declare-styleable>
+</resources>
